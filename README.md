@@ -1,4 +1,3 @@
 # hello-world
-My first code
-
+My first GitHub
 This is just the tutorial.
